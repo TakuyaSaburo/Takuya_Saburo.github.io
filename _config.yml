@@ -1,5 +1,3 @@
 title: takuya's homepage
-description: ミニマムな個人サイト
+description: 個人サイト
 theme: minima
-plugins:
-  - jekyll-feed
